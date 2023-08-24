@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LogithR/react/static/css/main.55e0f07e.css",
+    "main.js": "/LogithR/react/static/js/main.2019e8df.js",
+    "static/js/787.0edbcda9.chunk.js": "/LogithR/react/static/js/787.0edbcda9.chunk.js",
+    "static/media/profile.JPG": "/LogithR/react/static/media/profile.46e9d6b623789b687ea7.JPG",
+    "static/media/home.jpg": "/LogithR/react/static/media/home.dd273e7e8ecb814ac2c4.jpg",
+    "static/media/loginfo.png": "/LogithR/react/static/media/loginfo.9260da99ad5da8e06c05.png",
+    "static/media/Blog.jpg": "/LogithR/react/static/media/Blog.6890816575119ef90006.jpg",
+    "static/media/logo.png": "/LogithR/react/static/media/logo.f0dae421c7cabb98916b.png",
+    "static/media/blogbackground.jpg": "/LogithR/react/static/media/blogbackground.5a05b3f0d4e5de2231c3.jpg",
+    "static/media/contact.jfif": "/LogithR/react/static/media/contact.6205ce293d74aae96849.jfif",
+    "index.html": "/LogithR/react/index.html",
+    "main.55e0f07e.css.map": "/LogithR/react/static/css/main.55e0f07e.css.map",
+    "main.2019e8df.js.map": "/LogithR/react/static/js/main.2019e8df.js.map",
+    "787.0edbcda9.chunk.js.map": "/LogithR/react/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55e0f07e.css",
+    "static/js/main.2019e8df.js"
+  ]
+}
