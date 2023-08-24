@@ -1,0 +1,28 @@
+.link{
+    width: 25%;
+    text-align: center;
+    padding: 5px;
+    border-radius: 50%;
+    max-width: 40%;
+    height: 40%;
+    margin-left: 58px;
+}
+.lk{
+    text-align: center;
+    font-size: medium;
+    background-color: #b6ca1dd4;
+    color: black;
+    border-style: dashed;
+}
+.videos{
+    text-align: center;
+}
+.up{
+   text-align: right;
+margin-top: -40px;
+margin-right: 40px;
+
+}
+.uparrow:hover{
+    color: red;
+}

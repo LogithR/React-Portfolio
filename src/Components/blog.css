@@ -1,0 +1,78 @@
+.pic{
+    float:right ;
+    margin-bottom: 50%;
+    margin-right: 90px;
+    border-radius: 44%;
+    margin-top: 34px;
+    
+}
+.blogtext{
+    background-color: aquamarine;
+    border: solid;
+    border-radius: 4%;
+    padding: 10px;
+    float: left;
+    margin-left: 60px;
+    margin-top: 2px;
+    font-weight: bolder;
+    margin-right: 3px;
+}
+.blogpic{
+    margin-top: 40px;
+    float:right;
+    
+}
+.youtuber{
+    text-decoration: underline;
+    color: red;
+}
+.channel{
+    font-style: italic;
+    color: red;
+    text-decoration: underline;
+}
+
+.backbg{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.list{
+    margin-left: 20px;
+}
+.bg:hover{
+    background-color: white;
+    margin: 3px solid green;
+}
+.career{
+    
+    text-decoration: underline;
+}
+
+.links{
+    color: black;
+    width: 500px;
+}
+.space{
+    text-indent: 3pc;
+}
+
+.uparrow{
+    text-align: right;
+    margin-right: 50px;
+    margin-top: px;
+}
+.top{
+    text-align: right;
+   margin-top: 20px;
+    margin-right: 40px;
+}
+.head:hover{
+    text-decoration: underline;
+}
+.head{
+    font-style: italic;
+    
+}
+#blog{
+    background: url('./blogbackground.jpg');
+}

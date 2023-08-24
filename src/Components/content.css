@@ -1,0 +1,88 @@
+.typewrite{
+        text-align: center;
+        color: yellow;
+        background-color: black;
+        overflow: hidden; /* Ensures the content is not revealed until the animation */
+        border-right: .15em solid orange; /* The typwriter cursor */
+        white-space: nowrap; /* Keeps the content on a single line */
+        margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+        letter-spacing: .15em; /* Adjust as needed */
+        animation: 
+          typing 4.4s steps(40, end),
+          blink-caret .44s step-end infinite;
+      }
+      
+      /* The typing effect */
+      @keyframes typing {
+        from { width: 0}
+        to { width: 50% }
+      }
+      
+      /* The typewriter cursor effect */
+      @keyframes blink-caret {
+        from, to { border-color: transparent }
+        50% { border-color: orange; }
+      }
+.span{
+    background-color: black;
+    color: yellow;
+    padding-top: 5px;
+    color: red;
+
+}
+.emp{
+    font-style: italic;
+    text-decoration: underline;
+}
+.para{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: yellow;
+}
+.bold{
+    text-decoration: underline;
+    text-decoration-color: red;
+    color: red;
+}
+.button{
+    color: red;
+}
+
+.sub{
+    font-weight: 50px;
+    text-align: center;
+    color: yellow;
+}
+.button1{
+    text-align: center;
+    color: yellow;
+}
+.mychannel{
+    
+    margin-left: 8px;
+    width: 100px;
+    color: red;
+       
+}
+
+.div{
+    background-image:url("loginfo.png");
+    background-size: cover;
+}
+.hand{
+    color: red;
+}
+.downcolour{
+    color: red;
+}
+
+.space{
+    color:black;
+    background-color: red;
+}
+.content{
+   
+    background-repeat: no-repeat;
+    background-position: center;
+}

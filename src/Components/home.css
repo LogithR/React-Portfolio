@@ -1,0 +1,60 @@
+.body{
+    background-image: url('./home.jpg');
+    height: 60%;
+    max-height: max-content;
+    background: url('./home.jpg') no-repeat center fixed;
+    background-size: cover;
+}
+.back{
+    background: url('./home.jpg') no-repeat center fixed;
+    background-size: cover;
+
+}
+.home{
+    position: relative; top:325px;
+    text-align: center;
+    color: yellow;
+    background-color: black;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid orange; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .15em; /* Adjust as needed */
+    animation: 
+      typing 4.4s steps(40, end),
+      blink-caret .44s step-end infinite;
+  }
+  
+  /* The typing effect */
+  @keyframes typing {
+    from { width: 0}
+    to { width: 50% }
+  }
+  
+  /* The typewriter cursor effect */
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange; }
+  }
+.span{
+background-color: black;
+color: yellow;
+padding-top: 5px;
+color: red;
+
+}
+.emp{
+font-style: italic;
+text-decoration: underline;
+}
+.para{
+text-align: center;
+font-weight: bold;
+font-size: 50px;
+color: yellow;
+}
+.bold{
+text-decoration: underline;
+text-decoration-color: red;
+color: red;
+}

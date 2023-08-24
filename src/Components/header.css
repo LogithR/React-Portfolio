@@ -1,0 +1,11 @@
+.aboutheader{
+  background-image: url('./header.jpg');
+  padding: 10px;
+  color:yellow;
+  border-style: dashed ridge solid ;
+  
+}
+.colour{
+  color: red;
+  
+}
